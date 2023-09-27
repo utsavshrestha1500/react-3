@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(242, 151, 13);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-Logo  {
+    width: 60px;
+}
+
+
+
+.nav-items {
+list-style: none;
+display: flex;
+margin: 5px;
+border-left: 0ex;
+}
+
+
+
+.nav-items > li {
+    padding: 15px;
+}
+
+h2 {
+    color:rgb(49, 143, 20);
+    display: flex;
+    margin: none;
+}
+
+p {
+    display: flex;
+    margin: none;
+    border-left: 0ex;
+    list-style: none;
+    text-decoration-line: none;
+}
